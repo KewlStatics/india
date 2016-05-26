@@ -1917,6 +1917,12 @@ exports.Formats = [
 		],
 	},
 	{
+		name: "Ubers Monotype",
+		section: "Other Metagames",
+
+		ruleset: ['Pokemon', 'Standard Ubers', 'Same Type Clause'],
+		banlist: []
+	{
 		name: "Tier Shift",
 		desc: [
 			"Pok&eacute;mon below OU/BL get all their stats boosted. UU/BL2 get +5, RU/BL3 get +10, NU/BL4 get +15, and PU or lower get +20.",
